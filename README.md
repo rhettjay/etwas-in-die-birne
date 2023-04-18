@@ -6,3 +6,4 @@ Text file of all my goof off ideas so I can put them somewhere and not think abo
 -- A monitor to alert when levels are low
 -- Will need acccess to wifi, a scale, an arduino a button, a bread board
 -- Website: https://how2electronics.com/iot-weighing-scale-hx711-load-cell-esp8266/
+- Persist data of the syrup so I can build an api on top of the data to know before I leave my seat if the machine is currently stocked on the beverage I want
