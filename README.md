@@ -2,6 +2,7 @@
 Text file of all my goof off ideas so I can put them somewhere and not think about them until I have time
 
 ### Ideas
+## Terraform module that allows for pointing your terraform directly at a .env file ##
 - A weight scale to measure the syrup levels of the coke machine one the 2nd floor lobby
 -- A monitor to alert when levels are low
 -- Will need acccess to wifi, a scale, an arduino a button, a bread board
