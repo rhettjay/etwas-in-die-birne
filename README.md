@@ -3,6 +3,8 @@ Text file of all my goof off ideas so I can put them somewhere and not think abo
 
 ### Ideas
 ## Terraform module that allows for pointing your terraform directly at a .env file ##
+## Testing artifactory that will allow for generating a test suite from a .yml file or swagger.json file
+> Utilize typebox or fastify-type-provider-typebox to call endpoints recursively. Still bouncing this one around on how it could be done, but I'm convinced it can and should be written
 - A weight scale to measure the syrup levels of the coke machine one the 2nd floor lobby
 -- A monitor to alert when levels are low
 -- Will need acccess to wifi, a scale, an arduino a button, a bread board
