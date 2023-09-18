@@ -10,8 +10,8 @@ Text file of all my goof off ideas so I can put them somewhere and not think abo
 <li>Terraform module that allows for pointing your terraform directly at a .env file</li>
 <li>Testing artifactory that will allow for generating a test suite from a .yml file or swagger.json file</li>
 <details> Utilize typebox or fastify-type-provider-typebox to call endpoints recursively. Still bouncing this one around on how it could be done, but I'm convinced it can and should be written </details>
-<li>ts-tokeman [ts-tokeman](https://github.com/jay-bulk/ts-tokeman)</li>
-  <li>test out spacevim as a replacement for webstorm can you be just as productive (if not more so in a vim-like editor)</li>
+<li>ts-tokeman [ts-tokeman](https://github.com/jay-bulk/ts-tokeman) </li>
+  <li>test out spacevim OR astrovim as a replacement for webstorm can you be just as productive (if not more so in a vim-like editor) Notes: Astrovim is the most promising thus far. See my .config folder or my astro vim setup</li>
 </ul>
 
 #### Less likely to be worked on
