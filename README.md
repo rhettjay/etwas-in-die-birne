@@ -6,7 +6,7 @@ Text file of all my goof off ideas so I can put them somewhere and not think abo
 ### Ideas
 #### More likely to be worked on
 <ul> 
-  <li>Neovim/vim script to comment out the current line</li>
+  <li>Neovim/vim script to comment out the current line (already exists in astronvim check source code)</li>
   <li>Testing framework thats built with ESM and doesnt support CJS (at least nkt
   not for v1</li>
   <li>go api factory making use of abstract classes and gin</li>
