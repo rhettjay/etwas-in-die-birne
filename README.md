@@ -15,7 +15,7 @@ Text file of all my goof off ideas so I can put them somewhere and not think abo
 * [ts-tokeman](https://github.com/jay-bulk/ts-tokeman) 
 * test out spacevim OR astrovim as a replacement for webstorm can you be just as productive (if not more so in a vim-like editor) Notes: Astrovim is the most promising thus far. See my .config folder or my astro vim setup
 * repo with examples of good and bad architecture including what is encapsulation, etc
-
+* raspberry pi camera mounted on a vortex tripod with alogorithmic detection for animals(records). v2 motor on tripod to scan and track.
 #### Less likely to be worked on
   * A weight scale to measure the syrup levels of the coke machine one the 2nd floor lobby
   * A monitor to alert when levels are low
