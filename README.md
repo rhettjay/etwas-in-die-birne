@@ -5,6 +5,8 @@ Text file of all my goof off ideas so I can put them somewhere and not think abo
 
 ### Ideas
 #### More likely to be worked on
+* generate an agenda from
+an outlook calendar invite. demonstrate the ability there with to allow for PRs and/or GitHub actions that will allow for agenda updates and agenda creation or meeting creation
   * Neovim/vim script to comment out the current line (already exists in astronvim check source code)
   * Testing framework thats built with ESM and doesnt support CJS (at least nkt
   not for v1
