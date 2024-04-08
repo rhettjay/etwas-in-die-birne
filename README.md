@@ -1,7 +1,7 @@
 # Etwas-in-die-birne
 The Germans have a saying "Er/Sie hat etwas in die Birne". Which loosely translated means (you have something in the pear), in other words your contemplating something.\
 This repo represents my own inability to get ideas out of my head and is thus a place for those ideas to live while I work up the time to get them working.
-Text file of all my goof off ideas so I can put them somewhere and not think about them until I have time. You'll notice some of these actually do get made into something, others not so much. Feel free to PR your own ideas here.
+You'll notice some of these actually do get made into something, others not so much. Feel free to PR your own ideas here.
 
 ### Ideas
 #### More likely to be worked on
