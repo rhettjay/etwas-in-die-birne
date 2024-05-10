@@ -13,9 +13,10 @@ an outlook calendar invite. demonstrate the ability there with to allow for PRs 
   * go api factory making use of abstract classes and gin
 * Terraform module that allows for pointing your terraform directly at a .env file
 * Testing artifactory that will allow for generating a test suite from a .yml file or swagger.json file
+* Integration testing environment builder [eolo](https://github.com/rhettjay/eolo)
 * I need a way to catalog changes in a more effective way than got commits.
     <details> Utilize typebox or fastify-type-provider-typebox to call endpoints recursively. Still bouncing this one around on how it could be done, but I'm convinced it can and should be written </details>
-* [ts-tokeman](https://github.com/jay-bulk/ts-tokeman) 
+* ~~[ts-tokeman](https://github.com/jay-bulk/ts-tokeman)~~ Deprecated in favor of custom scripts in [rucksack](https://github.com/rhettjay/rucksack)
 * test out spacevim OR astrovim as a replacement for webstorm can you be just as productive (if not more so in a vim-like editor) Notes: Astrovim is the most promising thus far. See my .config folder or my astro vim setup
 * repo with examples of good and bad architecture including what is encapsulation, etc
 * raspberry pi camera mounted on a vortex tripod with alogorithmic detection for animals(records). v2 motor on tripod to scan and track.
