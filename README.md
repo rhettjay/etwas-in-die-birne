@@ -7,9 +7,8 @@ You'll notice some of these actually do get made into something, others not so m
 #### More likely to be worked on
 * generate an agenda from
 an outlook calendar invite. demonstrate the ability there with to allow for PRs and/or GitHub actions that will allow for agenda updates and agenda creation or meeting creation
-  * Neovim/vim script to comment out the current line (already exists in astronvim check source code)
-  * Testing framework thats built with ESM and doesnt support CJS (at least nkt
-  not for v1
+  * ~~Neovim/vim script to comment out the current line (gcc)
+  * ~~Testing framework thats built with ESM and doesnt support CJS~~
   * go api factory making use of abstract classes and gin
 * Terraform module that allows for pointing your terraform directly at a .env file
 * Testing artifactory that will allow for generating a test suite from a .yml file or swagger.json file
