@@ -5,6 +5,9 @@ You'll notice some of these actually do get made into something, others not so m
 
 ### Ideas
 #### More likely to be worked on
+* integration environment builder
+* htmx templater
+* automated release engine
 * generate an agenda from
 an outlook calendar invite. demonstrate the ability there with to allow for PRs and/or GitHub actions that will allow for agenda updates and agenda creation or meeting creation
   * ~~Neovim/vim script to comment out the current line (gcc)
