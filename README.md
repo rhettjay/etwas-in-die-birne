@@ -5,6 +5,7 @@ You'll notice some of these actually do get made into something, others not so m
 
 ### Ideas
 #### More likely to be worked on
+* calendar with integrations to multiple calendars gor sharing schedules.
 * integration environment builder
 * htmx templater
 * automated release engine
